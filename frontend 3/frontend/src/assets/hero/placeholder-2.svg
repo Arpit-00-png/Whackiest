@@ -1,0 +1,21 @@
+<svg width="900" height="1200" viewBox="0 0 900 1200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder graphic">
+  <defs>
+    <linearGradient id="mintGrad2" x1="20%" y1="0%" x2="80%" y2="100%">
+      <stop offset="0%" stop-color="#F3FBF7"/>
+      <stop offset="40%" stop-color="#B8E3D4"/>
+      <stop offset="100%" stop-color="#98D2C0"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1200" rx="48" fill="url(#mintGrad2)"/>
+  <rect x="120" y="180" width="660" height="300" rx="40" fill="rgba(15,23,42,0.07)"/>
+  <rect x="120" y="540" width="660" height="220" rx="32" fill="rgba(15,23,42,0.06)"/>
+  <rect x="120" y="820" width="660" height="180" rx="30" fill="rgba(15,23,42,0.05)"/>
+  <circle cx="210" cy="330" r="80" fill="#0F172A" opacity="0.08"/>
+  <circle cx="390" cy="330" r="80" fill="#0F172A" opacity="0.08"/>
+  <circle cx="570" cy="330" r="80" fill="#0F172A" opacity="0.08"/>
+  <path d="M250 640h420c22 0 40 16 40 36s-18 36-40 36H250c-22 0-40-16-40-36s18-36 40-36Z" fill="#0F172A" opacity="0.06"/>
+  <text x="190" y="240" font-family="Inter, system-ui" font-size="34" fill="#0F172A" opacity="0.38">Signals verified</text>
+  <text x="190" y="600" font-family="Inter, system-ui" font-size="32" fill="#0F172A" opacity="0.34">District reports elevated</text>
+  <text x="190" y="880" font-family="Inter, system-ui" font-size="30" fill="#0F172A" opacity="0.32">Support mapped</text>
+</svg>
+

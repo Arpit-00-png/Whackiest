@@ -1,0 +1,20 @@
+<svg width="900" height="1200" viewBox="0 0 900 1200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder graphic">
+  <defs>
+    <linearGradient id="mintGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#DFF2EA"/>
+      <stop offset="50%" stop-color="#98D2C0"/>
+      <stop offset="100%" stop-color="#7CB8A5"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1200" rx="48" fill="url(#mintGrad1)"/>
+  <rect x="80" y="160" width="740" height="260" rx="36" fill="rgba(255,255,255,0.55)"/>
+  <rect x="80" y="480" width="740" height="260" rx="36" fill="rgba(255,255,255,0.35)"/>
+  <rect x="80" y="800" width="520" height="220" rx="28" fill="rgba(255,255,255,0.28)"/>
+  <circle cx="720" cy="910" r="110" fill="rgba(255,255,255,0.4)"/>
+  <path d="M190 260h420c32 0 58 22 58 50s-26 50-58 50H190c-32 0-58-22-58-50s26-50 58-50Z" fill="#0F172A" opacity="0.08"/>
+  <path d="M190 580h360c32 0 58 22 58 50s-26 50-58 50H190c-32 0-58-22-58-50s26-50 58-50Z" fill="#0F172A" opacity="0.06"/>
+  <text x="110" y="250" font-family="Inter, system-ui" font-size="38" fill="#0F172A" opacity="0.45">Invisible stories</text>
+  <text x="110" y="570" font-family="Inter, system-ui" font-size="38" fill="#0F172A" opacity="0.38">Verified signals</text>
+  <text x="110" y="890" font-family="Inter, system-ui" font-size="34" fill="#0F172A" opacity="0.35">Support pathways</text>
+</svg>
+
